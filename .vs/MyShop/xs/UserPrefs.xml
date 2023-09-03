@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{EED2ED93-54AD-48E9-9C4E-7F60C7D8DCA7}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyShop/Views/Item/Grid.cshtml">
+    <Files>
+      <File FileName="MyShop/Views/Home/Index.cshtml" />
+      <File FileName="MyShop/Views/Item/Table.cshtml" />
+      <File FileName="MyShop/Views/Shared/_ItemTable.cshtml" />
+      <File FileName="MyShop/Views/Item/Grid.cshtml" Line="1" Column="1" />
+      <File FileName="MyShop/Views/Item/Details.cshtml" />
+      <File FileName="MyShop/Views/_ViewImports.cshtml" Line="5" Column="1" />
+      <File FileName="MyShop/Views/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyShop" expanded="True">
+            <Node name="MyShop" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Item" expanded="True">
+                  <Node name="Grid.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyShop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
